@@ -6,7 +6,6 @@
 
 #define DELAY 500
 
-
 #define MQTT_CLIENT_NAME "OfficeRelay"
 #define MQTT_SERVER      "192.168.2.18"
 #define MQTT_SERVERPORT  1883
